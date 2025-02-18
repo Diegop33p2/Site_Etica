@@ -15,3 +15,8 @@ Este projeto foi desenvolvido para a disciplina de **Ética** do curso de **Aná
 
 ## Acesse o Site
 https://diegop33p2.github.io/Site_Etica/
+
+## Desenvolvido por:
+ -Diego Pereira
+ -Antonio Marcos
+ -Nicolas Teixeira
