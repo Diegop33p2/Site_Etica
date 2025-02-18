@@ -14,3 +14,4 @@ Este projeto foi desenvolvido para a disciplina de **Ética** do curso de **Aná
   - JavaScript
 
 ## Acesse o Site
+https://diegop33p2.github.io/Site_Etica/
